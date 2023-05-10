@@ -162,9 +162,8 @@ footer {
 
 /* Estilizar o Formulário*/
 
-
 .contato {   
-    display: flex;
+  display: flex;
     gap: 3rem;
     justify-content: center;
     padding: 40px
