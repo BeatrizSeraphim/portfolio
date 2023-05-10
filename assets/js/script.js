@@ -7,6 +7,7 @@ const cep = document.querySelector("#cep")
 
 let nomeOk = false;
 let emailOk = false;
+let cepOk = false;
 
 function validarNome() {
 
@@ -86,3 +87,4 @@ function consultarCep() {
             alert("CEP não econtrado!");
         })
 }
+
